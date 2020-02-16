@@ -1,0 +1,18 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "domain-modeling", "domain-modeling\domain-modeling.mdproj", "{BC50DB96-CCF8-4DA3-BF54-61C7328F63B1}"
+EndProject
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "Chapters", "Chapters\Chapters.mdproj", "{99214A91-B6B9-4FDF-B56E-17CB622C86F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC50DB96-CCF8-4DA3-BF54-61C7328F63B1}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{BC50DB96-CCF8-4DA3-BF54-61C7328F63B1}.Default|Any CPU.Build.0 = Default|Any CPU
+		{99214A91-B6B9-4FDF-B56E-17CB622C86F7}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{99214A91-B6B9-4FDF-B56E-17CB622C86F7}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+EndGlobal
